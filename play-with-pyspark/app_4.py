@@ -3,9 +3,7 @@ from pyspark.sql.types import (StructType,
                                StructField, 
                                StringType, 
                                IntegerType, 
-                               DoubleType, 
-                               DateType, 
-                               TimestampType)
+                               DateType)
 
 
 '''
